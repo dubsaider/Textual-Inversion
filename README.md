@@ -36,7 +36,12 @@ accelerate launch textual_inversion_sdxl.py \
  --output_dir="./textual_inversion_flower_sdxl"
 ```
 
-# Examples
+## Examples
+
+### Base SDXL
+
+![00080-3313327616](https://github.com/dubsaider/Textual-Inversion/assets/44964427/14a0d9fd-9f27-4fe7-bca2-626e8e6269e2)
+
+### SDXL with Textual inversion
 
 soon
-
