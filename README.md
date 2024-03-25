@@ -12,4 +12,4 @@
 
 ### SD with Textual inversion
 
-soon
+![image (5)](https://github.com/dubsaider/Textual-Inversion/assets/44964427/7fc7e519-7b6f-4ccf-ad45-3ca414f9627a)
